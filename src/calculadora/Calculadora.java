@@ -12,9 +12,9 @@ public class Calculadora {
         System.out.println("Ingresa el segundo numero: ");
         int b = sc.nextInt();
         
-       // Suma suma = new suma();
+      Suma suma = new Suma();
         
-        //System.out.println("La suma es "+suma.calculadora(a,b));
+      System.out.println("La suma es "+suma.calculadora(a,b));
         
     }
     
