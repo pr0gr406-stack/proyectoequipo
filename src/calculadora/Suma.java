@@ -10,7 +10,7 @@ package calculadora;
  */
 public class Suma {
       public int calculadora(int a, int b){ 
-      return 0;
+      return a+b;
   };
      
 }
